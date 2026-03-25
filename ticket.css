@@ -114,7 +114,13 @@ form{
     gap: 18px;
     margin-top: 20px;
 }
-
+.ticket-id{
+    transform: rotate(90deg);
+    margin-left: 185px;
+    top: 440px;
+    position: absolute;
+    font-size: 18px;
+}
 
 .highlight{
     color: hsl(12, 54%, 50%);
